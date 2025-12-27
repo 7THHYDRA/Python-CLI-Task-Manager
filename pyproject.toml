@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=65", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "task-manager"
+version = "0.1.0"
+description = "CLI Task Manager"
+authors = [{name="Obaloluwa Akinyemi"}]
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.scripts]
+task = "task_manager.task:main"

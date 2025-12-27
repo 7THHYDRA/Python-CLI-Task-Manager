@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/task_manager/__init__.py
+src/task_manager/db.py
+src/task_manager/models.py
+src/task_manager/services.py
+src/task_manager/storage.py
+src/task_manager/task.py
+src/task_manager/utils.py
+src/task_manager.egg-info/PKG-INFO
+src/task_manager.egg-info/SOURCES.txt
+src/task_manager.egg-info/dependency_links.txt
+src/task_manager.egg-info/entry_points.txt
+src/task_manager.egg-info/top_level.txt
+tests/test_services.py
+tests/test_utils.py

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Learn Python properly",
+    "completed": true,
+    "priority": "high",
+    "due_date": "2025-01-10",
+    "created_at": "2025-12-27T21:04:16.671933"
+  },
+  {
+    "id": 2,
+    "title": "Finish portfolio",
+    "completed": false,
+    "priority": "medium",
+    "due_date": "2025-01-05",
+    "created_at": "2025-12-27T21:05:17.385830"
+  }
+]
